@@ -1,0 +1,10 @@
+{
+  "main": "american-flights.raml",
+  "name": "american-flights",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "american-flights",
+  "version": "1.0.0"
+}
